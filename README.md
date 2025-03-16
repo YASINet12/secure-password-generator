@@ -1,1 +1,1 @@
-git commit -m "✨ Add password strength validation"
+✨ Add password strength validation
